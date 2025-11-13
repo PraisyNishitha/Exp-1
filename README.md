@@ -1,4 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
+# NAME: PRAISY NISHITHA J
+# REGISTER NO: 212224100042
 
 # AIM:
 To draw the UML diagram for ATM and Banking System.
